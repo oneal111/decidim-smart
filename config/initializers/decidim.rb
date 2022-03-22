@@ -3,7 +3,7 @@
 Decidim.configure do |config|
   config.skip_first_login_authorization = ENV["SKIP_FIRST_LOGIN_AUTHORIZATION"] ? ActiveRecord::Type::Boolean.new.cast(ENV["SKIP_FIRST_LOGIN_AUTHORIZATION"]) : true
   config.application_name = "Decidim Smart"
-  config.mailer_sender = "SmartYourworld <pixmaze@gmail.com>"
+  config.mailer_sender = "SmartYourworld <smartyourworld@gmail.com>"
 
   # Change these lines to set your preferred locales
   config.default_locale = :fr

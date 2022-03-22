@@ -20,6 +20,18 @@
     "AWS_SECRET_ACCESS_KEY": {
       "required": true
     },
+    "SMTP_ADDRESS": {
+      "required": true
+    },
+    "SMTP_DOMAIN": {
+      "required":true
+    },
+    "SMTP_PASSWORD": {
+      "required":true
+    },
+    "SMTP_USERNAME": {
+      "required":true
+    },
     "CENSUS_PASSWORD": {
       "description": "Password for a custom CensusAuthenticationHandler, if needed",
       "required": false
