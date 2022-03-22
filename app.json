@@ -1,6 +1,6 @@
 {
-  "name": "osp-app",
-  "description": "Decidim / osp-app - Direct and participatory democracy web platform based on Decidim framework",
+  "name": "decidim-smart",
+  "description": "Decidim SmartYourWorld - Direct and participatory democracy web platform based on Decidim framework",
   "keywords": [],
   "addons": [
     "heroku-postgresql:hobby-dev",

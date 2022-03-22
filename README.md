@@ -1,8 +1,6 @@
-# OSP App
+# Decidim App
 
 Citizen Participation and Open Government application.
-
-This is a base app for all OSP projects. It uses OSP's decidim version.
 
 ## Deploying the app
 
