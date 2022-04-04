@@ -7,7 +7,6 @@
     "heroku-redis:hobby-dev",
     "memcachedcloud:30",
     "newrelic:wayne",
-    "sendgrid:starter",
     "sentry:f1"
   ],
   "scripts": {
